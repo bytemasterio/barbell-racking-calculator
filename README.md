@@ -1,6 +1,6 @@
-# platecalc
+# Barbell racking calculator with Vue.JS
 
-> A Vue.js project
+[Learn how this project was made on bytemaster.io](https://bytemaster.io/vuejs-barbell-racking-calculator)!
 
 ## Build Setup
 
